@@ -392,7 +392,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or contributions, please reach out at [cystof@gmail.com](mailto:cystof@gmail.com).
+For any inquiries or contributions, please reach out +✞+
 
 ---
 
